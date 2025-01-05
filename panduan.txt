@@ -27,7 +27,7 @@ Sync
 
 Branch
 -git branch [list branch yang ada]
--git branch <nama branch>
--git checkout
--git merge
--git tag
+-git branch <nama branch> [menambah branch baru]
+-git checkout <branch> [berpindah branch]
+-git merge <branch> [menggabungkan branch]
+-git tag 

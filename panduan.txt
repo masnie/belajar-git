@@ -1,0 +1,30 @@
+Panduan Untuk Git
+
+Create
+-git init
+-git clone
+
+Make a change
+-git add <file>
+-git add .
+-git commit -m <pesan commit>
+-git reset <file>
+-git reset --hard
+
+observe
+-git status
+-git diff
+-git show
+-git log
+-git log --oneline 
+
+Sync
+-git push
+-git pull
+-git fetch
+
+Branch
+-git Branch
+-git checkout
+-git merge
+-git tag

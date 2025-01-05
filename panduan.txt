@@ -19,6 +19,8 @@ observe
 -git log --oneline 
 
 Sync
+-git remote add origin <url repo github>
+-git remote -v [untuk cek status remote]
 -git push
 -git pull
 -git fetch

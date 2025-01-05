@@ -23,10 +23,11 @@ Sync
 -git remote -v [untuk cek status remote]
 -git push
 -git pull origin main [origin <Branch>]
--git fetch
+-git fetch 
 
 Branch
--git Branch
+-git branch [list branch yang ada]
+-git branch <nama branch>
 -git checkout
 -git merge
 -git tag
